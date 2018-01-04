@@ -1,10 +1,10 @@
-# AllStarCaster-shrek
+<h1>AllStarcaster</h1>
 
-<h3> What is this repo for?</h3>
-Displaying an audio reactive image of shrek onto anything
+<h3>What is this?</h3>
+Code to audio-reactive shrek onto anything with C and a screen
 
-<h3> What is the AllStarCaster?</h2>
-A visually reactive guitar that responds to your playing in real time.
+<h3>What is the AllStarcaster?</h2>
+A poorly named, visually reactive guitar that displays images of shrek at a varying size depending on the volume of your playing.
 
-<h2>Super-cool DEMONSTRATION VIDEO:</h2>
+<h3>Demo:</h3>
 https://www.instagram.com/p/BYjlzlfnbs5/
